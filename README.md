@@ -1,3 +1,3 @@
 # demo-repo
-demo for first repo
-Demo project desciption.
+demo for first repository!
+
